@@ -63,8 +63,6 @@ public:
         return (top == -1);
     }
 };
-
-// Main function
 int main() {
     BookStack stack;
     int choice;
